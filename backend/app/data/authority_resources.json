@@ -1,0 +1,86 @@
+[
+  {
+    "id": "res-01",
+    "name": "Heavy-Duty Diesel Pump Unit #14",
+    "type": "High-Capacity De-Watering Pump",
+    "city": "Bengaluru",
+    "assigned_ward": "BBMP Central Mechanical Yard (South Zone)",
+    "status": "Available",
+    "capacity": "250 HP / 8000 LPM",
+    "coordinates": [
+      12.9165,
+      77.6226
+    ],
+    "contact_person": "Inspector Nagaraj (+91 94808 00014)"
+  },
+  {
+    "id": "res-02",
+    "name": "SDRF Rescue Boat Team Alpha",
+    "type": "SDRF Rescue Inflatable Boat",
+    "city": "Bengaluru",
+    "assigned_ward": "Madivala / Silk Board",
+    "status": "Dispatched",
+    "capacity": "12 Persons / Outboard Motor",
+    "coordinates": [
+      12.917,
+      77.623
+    ],
+    "contact_person": "Sub-Officer Raghavan (+91 94808 00022)"
+  },
+  {
+    "id": "res-03",
+    "name": "Suction Jetting Machine Unit 7",
+    "type": "Suction Jetting Machine",
+    "city": "Bengaluru",
+    "assigned_ward": "HSR Layout (Ward 174)",
+    "status": "Available",
+    "capacity": "6000L Sludge Chamber",
+    "coordinates": [
+      12.913,
+      77.638
+    ],
+    "contact_person": "Operator Manjunath (+91 94808 00035)"
+  },
+  {
+    "id": "res-04",
+    "name": "BMC Dewatering Super-Pump B-02",
+    "type": "High-Capacity De-Watering Pump",
+    "city": "Mumbai",
+    "assigned_ward": "F/South (Hindmata)",
+    "status": "On-Site Active",
+    "capacity": "300 HP / 12,000 LPM",
+    "coordinates": [
+      19.0115,
+      72.842
+    ],
+    "contact_person": "Engineer Shinde (+91 98200 11102)"
+  },
+  {
+    "id": "res-05",
+    "name": "NDRF Quick Inundation Evacuation Unit 4",
+    "type": "SDRF Rescue Inflatable Boat",
+    "city": "Mumbai",
+    "assigned_ward": "L Ward (Kurla Mithi Basin)",
+    "status": "On-Site Active",
+    "capacity": "15 Persons / Motorized",
+    "coordinates": [
+      19.069,
+      72.8785
+    ],
+    "contact_person": "Commandant Yadav (+91 98200 44404)"
+  },
+  {
+    "id": "res-06",
+    "name": "GCC Zone 13 Mobile Dewatering Trailer",
+    "type": "High-Capacity De-Watering Pump",
+    "city": "Chennai",
+    "assigned_ward": "Zone 13 (Velachery)",
+    "status": "On-Site Active",
+    "capacity": "200 HP / 6500 LPM",
+    "coordinates": [
+      12.9785,
+      80.218
+    ],
+    "contact_person": "AE Srinivasan (+91 94451 90013)"
+  }
+]

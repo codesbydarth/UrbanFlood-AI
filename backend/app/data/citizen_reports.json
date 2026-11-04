@@ -1,0 +1,175 @@
+[
+  {
+    "id": "rep-099ec508",
+    "timestamp": "2026-11-04 19:57 IST",
+    "city": "Bengaluru",
+    "location_name": "Automated Test Location - Ring Road Choke",
+    "coordinates": [
+      12.93,
+      77.68
+    ],
+    "water_depth_level": "Waist-deep (3-4 ft)",
+    "water_depth_cm": 85.0,
+    "passability": "Completely Blocked",
+    "hazard_types": [
+      "Open Manhole",
+      "Submerged Car"
+    ],
+    "stranded_people_count": 5,
+    "image_url": null,
+    "reporter_name": "Test Bot",
+    "contact_number": null,
+    "notes": "Urgent drainage rescue needed.",
+    "verification_status": "Authority Dispatched",
+    "upvotes": 1,
+    "authority_notes": "SDRF Crew 02 arrived on scene."
+  },
+  {
+    "id": "rep-5b985246",
+    "timestamp": "2026-11-04 19:55 IST",
+    "city": "Bengaluru",
+    "location_name": "Automated Test Location - Ring Road Choke",
+    "coordinates": [
+      12.93,
+      77.68
+    ],
+    "water_depth_level": "Waist-deep (3-4 ft)",
+    "water_depth_cm": 85.0,
+    "passability": "Completely Blocked",
+    "hazard_types": [
+      "Open Manhole",
+      "Submerged Car"
+    ],
+    "stranded_people_count": 5,
+    "image_url": null,
+    "reporter_name": "Test Bot",
+    "contact_number": null,
+    "notes": "Urgent drainage rescue needed.",
+    "verification_status": "Authority Dispatched",
+    "upvotes": 1,
+    "authority_notes": "SDRF Crew 02 arrived on scene."
+  },
+  {
+    "id": "rep-46256761",
+    "timestamp": "2026-11-04 19:50 IST",
+    "city": "Bengaluru",
+    "location_name": "Koramangala Sony World Junction",
+    "coordinates": [
+      12.9344,
+      77.6288
+    ],
+    "water_depth_level": "Knee-deep (1-2 ft)",
+    "water_depth_cm": 50.0,
+    "passability": "4-Wheelers Only",
+    "hazard_types": [
+      "Open Manhole"
+    ],
+    "stranded_people_count": 3,
+    "image_url": null,
+    "reporter_name": "Anand S.",
+    "contact_number": null,
+    "notes": "Drain overflowing near 80ft road intersection.",
+    "verification_status": "Authority Dispatched",
+    "upvotes": 2,
+    "authority_notes": "BBMP Jetting unit #07 dispatched. Water level receding."
+  },
+  {
+    "id": "rep-101",
+    "timestamp": "2026-11-04 18:45 IST",
+    "city": "Bengaluru",
+    "location_name": "Silk Board Junction Service Road",
+    "coordinates": [
+      12.918,
+      77.6245
+    ],
+    "water_depth_level": "Knee-deep (1-2 ft)",
+    "water_depth_cm": 42.0,
+    "passability": "4-Wheelers Only",
+    "hazard_types": [
+      "Open Manhole",
+      "Submerged Median"
+    ],
+    "stranded_people_count": 4,
+    "image_url": "https://images.unsplash.com/photo-1547683905-f686c993aae5?auto=format&fit=crop&w=600&q=80",
+    "reporter_name": "Karthik R.",
+    "contact_number": "+91 98450 XXXXX",
+    "notes": "Open drain slab collapsed near petrol pump. 2 bikes stuck in water. Avoid taking left turn to BTM.",
+    "verification_status": "Official Verified",
+    "upvotes": 14,
+    "authority_notes": "BBMP Pump Crew 03 dispatched. Traffic police placing orange cones."
+  },
+  {
+    "id": "rep-102",
+    "timestamp": "2026-11-04 19:10 IST",
+    "city": "Bengaluru",
+    "location_name": "EcoSpace ORR Main Gate Underpass",
+    "coordinates": [
+      12.9265,
+      77.684
+    ],
+    "water_depth_level": "Waist-deep (3-4 ft)",
+    "water_depth_cm": 95.0,
+    "passability": "Completely Blocked",
+    "hazard_types": [
+      "Floating Debris",
+      "Live Electric Wire Standby"
+    ],
+    "stranded_people_count": 12,
+    "image_url": "https://images.unsplash.com/photo-1515694346937-94d85e41e6f0?auto=format&fit=crop&w=600&q=80",
+    "reporter_name": "Priyanka S.",
+    "contact_number": "+91 97412 XXXXX",
+    "notes": "Water reached car windows. Office bus cannot move. Need tractor / rescue boat to evacuate tech workers.",
+    "verification_status": "Authority Dispatched",
+    "upvotes": 29,
+    "authority_notes": "SDRF inflatable boat and 100 HP diesel pump en route from Marathahalli fire station."
+  },
+  {
+    "id": "rep-103",
+    "timestamp": "2026-11-04 19:18 IST",
+    "city": "Mumbai",
+    "location_name": "Hindmata Cinema Ambedkar Road",
+    "coordinates": [
+      19.0125,
+      72.843
+    ],
+    "water_depth_level": "Knee-deep (1-2 ft)",
+    "water_depth_cm": 50.0,
+    "passability": "Heavy Vehicles Only",
+    "hazard_types": [
+      "Submerged Car",
+      "Open Manhole"
+    ],
+    "stranded_people_count": 6,
+    "image_url": "https://images.unsplash.com/photo-1514565131-fce0801e5785?auto=format&fit=crop&w=600&q=80",
+    "reporter_name": "Amit Deshmukh",
+    "contact_number": "+91 98201 XXXXX",
+    "notes": "BEST buses are being diverted via Dadar TT flyover. Water entering lower steps of shops.",
+    "verification_status": "Official Verified",
+    "upvotes": 19,
+    "authority_notes": "All 4 BMC submersible pumps running at 100% load."
+  },
+  {
+    "id": "rep-104",
+    "timestamp": "2026-11-04 19:22 IST",
+    "city": "Chennai",
+    "location_name": "Velachery 100-Ft Bypass Road",
+    "coordinates": [
+      12.9802,
+      80.219
+    ],
+    "water_depth_level": "Ankle-deep (< 6 in)",
+    "water_depth_cm": 15.0,
+    "passability": "Passable (All)",
+    "hazard_types": [
+      "Potholes"
+    ],
+    "stranded_people_count": 0,
+    "image_url": null,
+    "reporter_name": "S. Sundaram",
+    "contact_number": "+91 94440 XXXXX",
+    "notes": "Slow traffic movement due to roadside water buildup near fuel station.",
+    "verification_status": "Community Verified",
+    "upvotes": 7,
+    "authority_notes": "Zone 13 desilting gang notified."
+  }
+]
